@@ -1,0 +1,4 @@
+paho-mqtt==2.1.0
+protobuf==6.31.1
+pycryptodomex==3.23.0
+pylorawan @ git+https://github.com/everynet/pylorawan.git@5178618e3a629784a0eb6733b990a226f401bc27

@@ -1,0 +1,22 @@
+{
+    "gateway": {
+        "id": "04454137388a616a",
+        "ip_addr": "172.26.253.164",
+        "configVersion": "1.0"
+    },
+    "dev": {
+        "addr": "016ef7c5",
+        "app_s_key": "385e0c0e430826baea9a50124714709c",
+        "nwk_s_key": "8d92a5a7fb510ed6a98faa072bc4a3a0",
+        "tx_freq": 921400000,
+        "tx_bw": 125000,
+        "tx_sf": 7
+    },
+    "mqtt": {
+        "host": "172.26.253.164",
+        "port": 1883,
+        "username": "",
+        "password": "",
+        "topic_up": "as923_2/gateway/04454137388a616a/event/up"
+    }
+}
